@@ -1,7 +1,7 @@
 # React Season Display
 
 ## Description
-Display if it's summer or winter based on user's location.
+Display if it's summer or winter based on the user's location.
 
 ## Preview
 
